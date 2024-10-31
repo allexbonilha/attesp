@@ -8,7 +8,14 @@
     "PROT-01",
     "PROT-02",
     "PROT-03",
+    "PROT-04",
+    "PROT-05",
+    "PROT-06",
+    "PROT-07",
+    "PROT-08",
+    "PROT-09",
+    "PROT-10",
     "NAOAPAGAR"
   ],
-  "version": "1.1.9"
+  "version": "1.2.0"
 }
