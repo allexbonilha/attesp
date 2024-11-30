@@ -63,7 +63,17 @@
     "PCB-Pix-048",
     "PCB-Pix-049",
     "PCB-Pix-050",
+    "PCB-V00-001",
+    "PCB-V00-002",
+    "PCB-V00-003",
+    "PCB-V00-004",
+    "PCB-V00-005",
+    "PCB-V00-006",
+    "PCB-V00-007",
+    "PCB-V00-008",
+    "PCB-V00-009",
+    "PCB-V00-010",  
     "NAOAPAGAR"
   ],
-  "version": "1.2.3"
+  "version": "1.2.4"
 }
