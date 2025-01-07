@@ -10,6 +10,7 @@
     "teste8",
     "teste9",
     "teste10",
+    "PCB-Pix-001",
     "PROT-01",
     "PROT-02",
     "PROT-03",
@@ -72,5 +73,5 @@
     "PCB-V00-APP-040",    
     "NAOAPAGAR"
   ],
-  "version": "1.3.0"
+  "version": "1.3.1"
 }
